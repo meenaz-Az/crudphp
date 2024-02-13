@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "user";
+$password = "Password464!";
+$dbname = "Crudnew_db";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
